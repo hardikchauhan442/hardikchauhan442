@@ -1,4 +1,14 @@
-## Hi there 👋
+## 👋 Hey, I'm Hardik Chauhan  
+
+💻 I'm a Full Stack Developer  
+🚀 Building apps with React, Nextjs, Node.js, PostgreSQL, MongoDB,and more  
+📫 Reach me at: hardikchauhan442@gmail.com (mailto:hardikchauhan442@gmail.com)  
+
+### 🧰 Tech Stack
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
 <!--
 **hardikchauhan442/hardikchauhan442** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
