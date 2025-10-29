@@ -2,7 +2,7 @@
 
 💻 I'm a Full Stack Developer  
 🚀 Building apps with React, Nextjs, Node.js, PostgreSQL, MongoDB,and more  
-📫 Reach me at: hardikchauhan442@gmail.com (mailto:hardikchauhan442@gmail.com)  
+📫 Reach me at: [hardikchauhan442@gmail.com] (mailto:hardikchauhan442@gmail.com)  
 
 ### 🧰 Tech Stack
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
